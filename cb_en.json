@@ -23,12 +23,15 @@
                 }
             ],
             "publications": [
+
+
+
+
+
+
+
+
                 {
-
-
-
-
-
                     "metadata": {
                         "@type": "http://schema.org/Book",
                         "title": "An all-Consuming Passion for Jesus",
@@ -40,7 +43,7 @@
                         "language": "en",
                         "modified": "2018-04-23T22:15:00Z",
                         "published": "1864-01-01",
-                        "publisher": "Feedbooks",
+                        "publisher": "",
                         "numberOfPages": 1122,
                         "subject": [
                             {
@@ -84,37 +87,48 @@
                 {
                     "metadata": {
                         "@type": "http://schema.org/Book",
-                        "title": "Le Rouge et le Noir",
-                        "subtitle": "Chronique du XIXe siècle",
-                        "sortAs": "Rouge et le Noir, Le",
-                        "author": "Stendhal",
-                        "identifier": "http://fr.feedbooks.com/book/220/le-rouge-et-le-noir",
-                        "language": "fr",
+                        "title": "Alive to Wonder",
+                        "subtitle": "",
+                        "sortAs": "Piper, John",
+                        "author": "John Piper",
+                        "identifier": "",
+                        "language": "en",
                         "modified": "2018-04-23T22:25:00Z",
                         "published": "1834-01-01",
-                        "publisher": "Feedbooks",
-                        "description": "Au rouge des armes, Julien Sorel préfèrera le noir des ordres. Au cours de son ascension sociale, deux femmes se singularisent, comme pour figurer les deux penchants de son caractère : Madame de Rênal - le rêve, l'aspiration à un bonheur pur et simple - et Mathilde de La Mole - l'énergie, l'action brillante et fébrile. A ces composantes stendhaliennes (conception de la vie qui dépasse la stratégie narrative pour s'étendre à l'existence de l'auteur) correspondent deux facettes stylistiques : la sobriété et la restriction du champ de vision."
+                        "publisher": "1122",
+                        "description": "C.S. Lewis died fifty years ago this year. “More than a genera- tion after his death, Lewis’s works are now more popular and widely read than at any point during his lifetime.”1 His thought is so creative and so profound and so extensive that Alister McGrath says, “Half a century after his death, the process of receiving and interpreting Lewis has still only begun.”2\nI put Lewis in the top three writers who have influenced how I read and respond to the world. Yes, the world is a book to be read. And few people could read like Lewis. When Clyde Kilby wrote an anthology of Lewis’s writings he titled it A Mind Awake. He might have called it “An Awakening Mind.” This is the effect it has. His alertness to reality is contagious.\nMy tribute to Lewis is scattered all through my writings and sermons. I want to thank Jonathan Parnell for gathering togeth- er all the parts of this book and providing the editorial sutures that transform them into a readable flow. This is our celebration of Lewis’s extraordinary gift of being Awake to Wonder."
                     },
                     "links": [
                         {
                             "rel": "http://opds-spec.org/acquisition/open-access",
-                            "href": "https://test.opds.io/assets/rougenoir/file.epub",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.epub",
                             "type": "application/epub+zip"
                         }
                     ],
                     "images": [
                         {
-                            "href": "https://test.opds.io/assets/rougenoir/small.jpg",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.png",
                             "type": "image/jpeg",
-                            "rel": "http://opds-spec.org/image/thumbnail"
+                            "height": 110,
+                            "width": 146
                         },
                         {
-                            "href": "https://test.opds.io/assets/rougenoir/normal.jpg",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.png",
                             "type": "image/jpeg",
-                            "rel": "http://opds-spec.org/image"
+                            "height": 346,
+                            "width": 260
                         }
                     ]
                 },
+
+
+
+
+
+
+
+
+
                 {
                     "metadata": {
                         "@type": "http://schema.org/Book",
