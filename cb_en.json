@@ -43,6 +43,20 @@
                             "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.epub",
                             "type": "application/epub+zip"
                         }
+                    ],
+                    "images": [
+                        {
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.png",
+                            "type": "image/jpeg",
+                            "height": 110,
+                            "width": 146
+                        },
+                        {
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AliveToWonder_EN.png",
+                            "type": "image/jpeg",
+                            "height": 346,
+                            "width": 260
+                        }
                     ]
                 },
                 {
