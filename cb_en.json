@@ -26,64 +26,6 @@
 
 
 
-
-
-
-
-
-                {
-                    "metadata": {
-                        "@type": "http://schema.org/Book",
-                        "title": "An all-Consuming Passion for Jesus",
-                        "author": {
-                            "name": "John Piper",
-                            "sortAs": "Piper, John"
-                        },
-                        "identifier": "-",
-                        "language": "en",
-                        "modified": "2018-04-23T22:15:00Z",
-                        "published": "1864-01-01",
-                        "publisher": "",
-                        "numberOfPages": 1122,
-                        "subject": [
-                            {
-                                "name": "Christianity",
-                                "code": ""
-                            },
-                            {
-                                "name": "Religion",
-                                "code": ""
-                            }
-                        ],
-                        "description": "Friday morning, January 11, 2013 dawned frigid and dark in Minneapolis. John Piper finished his devotions, slid on his boots, bundled in his coat, and stepped outside to the remnants of an overnight ice storm to walk 600 slippery steps from his Minneapolis home to the door of Bethle- hem Baptist Church for the weekly prayer gathering. The gatherings were typically small, sometimes only three or four attended, but two or three is enough of an audience to pray for the congregation’s needs and the gospel’s advance.\nJust one week earlier, Piper took a different walk. Under the warm spotlight of Atlanta’s Georgia Dome for Passion 2013, Piper climbed the stairs and walked on stage to plead with 60,000 college students to embrace the beauty of\nChrist as they face a future of inevitable suffering and per- secution in various forms. His bold voice echoed through the dome, reiterating the point of the conference. “This is what Passion is about,” he said, “the glorification of the infinite worth of Jesus so that he remains our joy when everything around our soul gives way” (Heb. 10:34). "
-                    },
-                    "links": [
-                        {
-                            "rel": "http://opds-spec.org/acquisition/open-access",
-                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.epub",
-                            "type": "application/epub+zip"
-                        }
-                    ],
-                    "images": [
-                        {
-                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
-                            "type": "image/jpeg",
-                            "height": 110,
-                            "width": 146
-                        },
-                        {
-                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
-                            "type": "image/jpeg",
-                            "height": 346,
-                            "width": 260
-                        }
-                    ]
-                },
-
-
-
-
-
                 {
                     "metadata": {
                         "@type": "http://schema.org/Book",
@@ -123,14 +65,6 @@
 
 
 
-
-
-
-
-
-
-
-
                 {
                     "metadata": {
                         "@type": "http://schema.org/Book",
@@ -189,10 +123,13 @@
 
 
 
+
+
+
                 {
                     "metadata": {
                         "@type": "http://schema.org/Book",
-                        "title": "An all-Consuming Passion for Jesus",
+                        "title": "A Tribute to My Father",
                         "author": {
                             "name": "John Piper",
                             "sortAs": "Piper, John"
@@ -213,24 +150,82 @@
                                 "code": ""
                             }
                         ],
-                        "description": "Friday morning, January 11, 2013 dawned frigid and dark in Minneapolis. John Piper finished his devotions, slid on his boots, bundled in his coat, and stepped outside to the remnants of an overnight ice storm to walk 600 slippery steps from his Minneapolis home to the door of Bethle- hem Baptist Church for the weekly prayer gathering. The gatherings were typically small, sometimes only three or four attended, but two or three is enough of an audience to pray for the congregation’s needs and the gospel’s advance.\nJust one week earlier, Piper took a different walk. Under the warm spotlight of Atlanta’s Georgia Dome for Passion 2013, Piper climbed the stairs and walked on stage to plead with 60,000 college students to embrace the beauty of\nChrist as they face a future of inevitable suffering and per- secution in various forms. His bold voice echoed through the dome, reiterating the point of the conference. “This is what Passion is about,” he said, “the glorification of the infinite worth of Jesus so that he remains our joy when everything around our soul gives way” (Heb. 10:34). "
+                        "description": "My father turned 94 in heaven this year (2013). I have spent this afternoon listening to him as he read his poems and sang hymns with me. I recorded these little duets three years before he died. It has been a sweet afternoon.\nI wish I had felt at 17 what I feel at 67. I wish I had known and felt the value of a father’s Song. I wish I had sung with him earlier, just the two of us. Perhaps some young son reading this will ask the Lord Jesus to take away the immature embarrass- ment at his father’s Song—the Song of his life.\nMy father was an evangelist-poet-singer-songwriter. I have in front of me a folder with the lyrics and the musical scores that he wrote. Five of these are the actual pre-lined music paper where he drew in the notes and printed by hand the lyrics between the treble and bass clefs.\nThere are titles like “I’m in Debt to Jesus,” “Christ Is the Answer,” “Thy Hand upon Me, Lord,” “Take Time to Pray,” and “Lord, Make Me Pure.” One, called “His Grace Is Suffi-\ncient,” is printed with the words “Copyright, 1943, by William S. H. Piper” in the bottom margin."
                     },
                     "links": [
                         {
                             "rel": "http://opds-spec.org/acquisition/open-access",
-                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.epub",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_ATributeToMyFather_EN.epub",
                             "type": "application/epub+zip"
                         }
                     ],
                     "images": [
                         {
-                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_ATributeToMyFather_EN.png",
                             "type": "image/jpeg",
                             "height": 110,
                             "width": 146
                         },
                         {
-                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_ATributeToMyFather_EN.png",
+                            "type": "image/jpeg",
+                            "height": 346,
+                            "width": 260
+                        }
+                    ]
+                },
+
+
+
+
+
+
+
+
+
+
+                {
+                    "metadata": {
+                        "@type": "http://schema.org/Book",
+                        "title": "Captive to Glory",
+                        "author": {
+                            "name": "John Piper",
+                            "sortAs": "Piper, John"
+                        },
+                        "identifier": "-",
+                        "language": "en",
+                        "modified": "2018-04-23T22:15:00Z",
+                        "published": "1864-01-01",
+                        "publisher": "",
+                        "numberOfPages": 1122,
+                        "subject": [
+                            {
+                                "name": "Christianity",
+                                "code": ""
+                            },
+                            {
+                                "name": "Religion",
+                                "code": ""
+                            }
+                        ],
+                        "description": "My heart abounds with thankfulness for the gifted con- tent team at Desiring God. In this case, Jonathan Parnell did most of the heavy lifting, but my gratitude overflows to all. They conceived of this collection and, along with Justin Taylor’s gracious contributions, made it a reality. All I did was help title the chapters and write this preface. They gathered my thoughts from many sources and put them together here.\nWhen I look back over the years covered by this col- lection, I realize with fresh intensity the pervasive impact on me of Edwards’s vision of God. Without Edwards, I am not sure the phrase “God-entranced” would have the meaning for me it does. This is an indictment of my soul. For someone should ask, Isn’t the Bible enough to make you God-entranced? The true answer is that it should be."
+                    },
+                    "links": [
+                        {
+                            "rel": "http://opds-spec.org/acquisition/open-access",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_CaptiveToGlory_EN.epub",
+                            "type": "application/epub+zip"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_CaptiveToGlory_EN.png",
+                            "type": "image/jpeg",
+                            "height": 110,
+                            "width": 146
+                        },
+                        {
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_CaptiveToGlory_EN.png",
                             "type": "image/jpeg",
                             "height": 346,
                             "width": 260
