@@ -12,7 +12,7 @@
     "navigation": [
         {
             "title": "English books",
-            "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_en.json",
+            "href": "https://raw.githubusercontent.com/AppsGR/booksapi/refs/heads/feature/readium_implementation/cb_en.json",
             "type": "application/opds+json"
         },
         {
