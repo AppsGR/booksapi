@@ -18,7 +18,7 @@
             "links": [
                 {
                     "rel": "self",
-                    "href": "https://test.opds.io/2.0/publications.json",
+                    "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/books22.json",
                     "type": "application/opds+json"
                 }
             ],
