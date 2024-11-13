@@ -1,10 +1,226 @@
-[
-	{
-		"title": "A Tribute to My Father",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20a-tribute-to-my-father-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20a-tribute-to-my-father-en_cover.png",
-		"language": "EN",
-		"fileExtension" : ".pdf"
-	}
+{
+        "metadata": {
+                "title": "Library"
+        },
+        "links": [
+                {
+                        "rel": "self",
+                        "href": "https://raw.githubusercontent.com/AppsGR/booksapi/refs/heads/feature/readium_implementation/cb_en.json",
+                        "type": "application/json"
+                }
+        ],
+        "groups": [
+                {
+                        "metadata": {
+                                "title": "John Piper",
+                                "numberOfItems": 100
+                        },
+                        "links": [
+                                {
+                                        "rel": "self",
+                                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/books22.json",
+                                        "type": "application/opds+json"
+                                }
+                        ],
+                        "publications": [
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "An all-Consuming Passion for Jesus",
+                                                "author": {
+                                                        "name": "John Piper",
+                                                        "sortAs": "Piper, John"
+                                                },
+                                                "identifier": "-",
+                                                "language": "en",
+                                                "modified": "2018-04-23T22:15:00Z",
+                                                "published": "1864-01-01",
+                                                "publisher": "",
+                                                "numberOfPages": 1122,
+                                                "subject": [
+                                                        {
+                                                                "name": "Christianity",
+                                                                "code": ""
+                                                        },
+                                                        {
+                                                                "name": "Religion",
+                                                                "code": ""
+                                                        }
+                                                ],
+                                                "description": "Friday morning, January 11, 2013 dawned frigid and dark in Minneapolis. John Piper finished his devotions, slid on his boots, bundled in his coat, and stepped outside to the remnants of an overnight ice storm to walk 600 slippery steps from his Minneapolis home to the door of Bethlehem Baptist Church for the weekly prayer gathering. The gatherings were typically small, sometimes only three or four attended, but two or three is enough of an audience to pray for the congregation’s needs and the gospel’s advance. Just one week earlier, Piper took a different walk. Under the warm spotlight of Atlanta’s Georgia Dome for Passion 2013, Piper climbed the stairs and walked on stage to plead with 60,000 college students to embrace the beauty of Christ as they face a future of inevitable suffering and persecution in various forms. His bold voice echoed through the dome, reiterating the point of the conference. “This is what Passion is about,” he said, “the glorification of the infinite worth of Jesus so that he remains our joy when everything around our soul gives way” (Heb. 10:34). "
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 110,
+                                                        "width": 146
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 346,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "An all-Consuming Passion for Jesus",
+                                                "author": {
+                                                        "name": "John Piper",
+                                                        "sortAs": "Piper, John"
+                                                },
+                                                "identifier": "-",
+                                                "language": "en",
+                                                "modified": "2018-04-23T22:15:00Z",
+                                                "published": "1864-01-01",
+                                                "publisher": "",
+                                                "numberOfPages": 1122,
+                                                "subject": [
+                                                        {
+                                                                "name": "Christianity",
+                                                                "code": ""
+                                                        },
+                                                        {
+                                                                "name": "Religion",
+                                                                "code": ""
+                                                        }
+                                                ],
+                                                "description": "Friday morning, January 11, 2013 dawned frigid and dark in Minneapolis. John Piper finished his devotions, slid on his boots, bundled in his coat, and stepped outside to the remnants of an overnight ice storm to walk 600 slippery steps from his Minneapolis home to the door of Bethlehem Baptist Church for the weekly prayer gathering. The gatherings were typically small, sometimes only three or four attended, but two or three is enough of an audience to pray for the congregation’s needs and the gospel’s advance. Just one week earlier, Piper took a different walk. Under the warm spotlight of Atlanta’s Georgia Dome for Passion 2013, Piper climbed the stairs and walked on stage to plead with 60,000 college students to embrace the beauty of Christ as they face a future of inevitable suffering and persecution in various forms. His bold voice echoed through the dome, reiterating the point of the conference. “This is what Passion is about,” he said, “the glorification of the infinite worth of Jesus so that he remains our joy when everything around our soul gives way” (Heb. 10:34). "
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 110,
+                                                        "width": 146
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 346,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "پنج داستان کوتاه منتخب",
+                                                "author": {
+                                                        "name": "D. H. Lawrence",
+                                                        "sortAs": "Lawrence, D, H."
+                                                },
+                                                "identifier": "-",
+                                                "language": "fa",
+                                                "modified": "2018-04-23T22:15:00Z",
+                                                "published": "1864-01-01",
+                                                "publisher": "",
+                                                "numberOfPages": 1122,
+                                                "subject": [
+                                                        {
+                                                                "name": "Christianity",
+                                                                "code": ""
+                                                        },
+                                                        {
+                                                                "name": "Religion",
+                                                                "code": ""
+                                                        }
+                                                ],
+                                                "description": "پنج داستان برای خوانندگان کتاب مسیحی"
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/DHLawrence_FiveSelectedShortStoriesFA.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/DHLawrence_FiveSelectedShortStoriesFA.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 110,
+                                                        "width": 146
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/DHLawrence_FiveSelectedShortStoriesFA.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 346,
+                                                        "width": 260
+                                                }
+                                        ]
+                                }
+                        ]
+                },
 
-]
+
+
+
+
+
+
+
+                {
+                        "metadata": {
+                                "title": "English Classics",
+                                "numberOfItems": 3
+                        },
+                        "publications": [
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Moby-Dick",
+                                                "author": {
+                                                        "name": "Herman Melville",
+                                                        "sortAs": "Melville, Herman"
+                                                },
+                                                "identifier": "http://www.feedbooks.com/book/54/moby-dick",
+                                                "language": "en",
+                                                "modified": "2018-04-23T23:18:00Z",
+                                                "published": "1851-01-01",
+                                                "publisher": "Feedbooks",
+                                                "description": "Moby-Dick is an 1851 novel by Herman Melville. The story tells the adventures of the wandering sailor Ishmael and his voyage on the whaling ship Pequod, commanded by Captain Ahab. Ishmael soon learns that Ahab seeks one specific whale, Moby-Dick, a white whale of tremendous size and ferocity. Comparatively few whaling ships know of Moby-Dick, and fewer yet have encountered him. In a previous encounter, the whale destroyed Ahab's boat and bit off his leg. Ahab intends to exact revenge."
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://test.opds.io/assets/moby/file.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://test.opds.io/assets/moby/small.jpg",
+                                                        "type": "image/jpeg",
+                                                        "height": 169,
+                                                        "width": 110
+                                                },
+                                                {
+                                                        "href": "https://test.opds.io/assets/moby/normal.jpg",
+                                                        "type": "image/jpeg",
+                                                        "height": 400,
+                                                        "width": 260
+                                                }
+                                        ]
+                                }
+                        ]
+                }
+        ]
+}

@@ -22,7 +22,7 @@
                 },
                 {
                         "title": "Persian books",
-                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_fa.json",
+                        "href": "https://raw.githubusercontent.com/AppsGR/booksapi/refs/heads/feature/readium_implementation/cb_fa.json",
                         "type": "application/opds+json"
                 },
                 {
