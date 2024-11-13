@@ -26,103 +26,8 @@
                                 {
                                         "metadata": {
                                                 "@type": "http://schema.org/Book",
-                                                "title": "An all-Consuming Passion for Jesus",
-                                                "author": {
-                                                        "name": "John Piper",
-                                                        "sortAs": "Piper, John"
-                                                },
-                                                "identifier": "-",
-                                                "language": "en",
-                                                "modified": "2018-04-23T22:15:00Z",
-                                                "published": "1864-01-01",
-                                                "publisher": "",
-                                                "numberOfPages": 1122,
-                                                "subject": [
-                                                        {
-                                                                "name": "Christianity",
-                                                                "code": ""
-                                                        },
-                                                        {
-                                                                "name": "Religion",
-                                                                "code": ""
-                                                        }
-                                                ],
-                                                "description": "Friday morning, January 11, 2013 dawned frigid and dark in Minneapolis. John Piper finished his devotions, slid on his boots, bundled in his coat, and stepped outside to the remnants of an overnight ice storm to walk 600 slippery steps from his Minneapolis home to the door of Bethlehem Baptist Church for the weekly prayer gathering. The gatherings were typically small, sometimes only three or four attended, but two or three is enough of an audience to pray for the congregation’s needs and the gospel’s advance. Just one week earlier, Piper took a different walk. Under the warm spotlight of Atlanta’s Georgia Dome for Passion 2013, Piper climbed the stairs and walked on stage to plead with 60,000 college students to embrace the beauty of Christ as they face a future of inevitable suffering and persecution in various forms. His bold voice echoed through the dome, reiterating the point of the conference. “This is what Passion is about,” he said, “the glorification of the infinite worth of Jesus so that he remains our joy when everything around our soul gives way” (Heb. 10:34). "
-                                        },
-                                        "links": [
-                                                {
-                                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.epub",
-                                                        "type": "application/epub+zip"
-                                                }
-                                        ],
-                                        "images": [
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
-                                                        "type": "image/jpeg",
-                                                        "height": 110,
-                                                        "width": 146
-                                                },
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
-                                                        "type": "image/jpeg",
-                                                        "height": 346,
-                                                        "width": 260
-                                                }
-                                        ]
-                                },
-                                {
-                                        "metadata": {
-                                                "@type": "http://schema.org/Book",
-                                                "title": "An all-Consuming Passion for Jesus",
-                                                "author": {
-                                                        "name": "John Piper",
-                                                        "sortAs": "Piper, John"
-                                                },
-                                                "identifier": "-",
-                                                "language": "en",
-                                                "modified": "2018-04-23T22:15:00Z",
-                                                "published": "1864-01-01",
-                                                "publisher": "",
-                                                "numberOfPages": 1122,
-                                                "subject": [
-                                                        {
-                                                                "name": "Christianity",
-                                                                "code": ""
-                                                        },
-                                                        {
-                                                                "name": "Religion",
-                                                                "code": ""
-                                                        }
-                                                ],
-                                                "description": "Friday morning, January 11, 2013 dawned frigid and dark in Minneapolis. John Piper finished his devotions, slid on his boots, bundled in his coat, and stepped outside to the remnants of an overnight ice storm to walk 600 slippery steps from his Minneapolis home to the door of Bethlehem Baptist Church for the weekly prayer gathering. The gatherings were typically small, sometimes only three or four attended, but two or three is enough of an audience to pray for the congregation’s needs and the gospel’s advance. Just one week earlier, Piper took a different walk. Under the warm spotlight of Atlanta’s Georgia Dome for Passion 2013, Piper climbed the stairs and walked on stage to plead with 60,000 college students to embrace the beauty of Christ as they face a future of inevitable suffering and persecution in various forms. His bold voice echoed through the dome, reiterating the point of the conference. “This is what Passion is about,” he said, “the glorification of the infinite worth of Jesus so that he remains our joy when everything around our soul gives way” (Heb. 10:34). "
-                                        },
-                                        "links": [
-                                                {
-                                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.epub",
-                                                        "type": "application/epub+zip"
-                                                }
-                                        ],
-                                        "images": [
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
-                                                        "type": "image/jpeg",
-                                                        "height": 110,
-                                                        "width": 146
-                                                },
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/JohnPiper/JohnPiper_AnAllConsumingPassionForJesus_EN.png",
-                                                        "type": "image/jpeg",
-                                                        "height": 346,
-                                                        "width": 260
-                                                }
-                                        ]
-                                },
-                                {
-                                        "metadata": {
-                                                "@type": "http://schema.org/Book",
                                                 "title": "پنج داستان کوتاه منتخب",
+                                                "subtitle": "Five Selected ShortStories",
                                                 "author": {
                                                         "name": "D. H. Lawrence",
                                                         "sortAs": "Lawrence, D, H."
@@ -161,6 +66,55 @@
                                                 },
                                                 {
                                                         "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/DHLawrence_FiveSelectedShortStoriesFA.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 346,
+                                                        "width": 260
+                                                }
+                                        ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "زندگی وفادارانه با اضطراب",
+                                                "subtitle": "Living Faith fully With Anxiety",
+                                                "author": {
+                                                        "name": "Aaron Garriott",
+                                                        "sortAs": "Garriott, Aaron"
+                                                },
+                                                "identifier": "-",
+                                                "language": "fa",
+                                                "modified": "2018-04-23T22:15:00Z",
+                                                "published": "1864-01-01",
+                                                "publisher": "",
+                                                "numberOfPages": 1122,
+                                                "subject": [
+                                                        {
+                                                                "name": "Christianity",
+                                                                "code": ""
+                                                        },
+                                                        {
+                                                                "name": "Religion",
+                                                                "code": ""
+                                                        }
+                                                ],
+                                                "description": ""
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/AaronGarriott_LivingFaithfullyWithAnxietyFA.pdf",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/AaronGarriott_LivingFaithfullyWithAnxietyFA.png",
+                                                        "type": "image/jpeg",
+                                                        "height": 110,
+                                                        "width": 146
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/AaronGarriott_LivingFaithfullyWithAnxietyFA.png",
                                                         "type": "image/jpeg",
                                                         "height": 346,
                                                         "width": 260
