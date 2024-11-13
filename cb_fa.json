@@ -71,56 +71,8 @@
                                                         "width": 260
                                                 }
                                         ]
-                                },
-                                {
-                                        "metadata": {
-                                                "@type": "http://schema.org/Book",
-                                                "title": "زندگی وفادارانه با اضطراب",
-                                                "subtitle": "Living Faith fully With Anxiety",
-                                                "author": {
-                                                        "name": "Aaron Garriott",
-                                                        "sortAs": "Garriott, Aaron"
-                                                },
-                                                "identifier": "-",
-                                                "language": "fa",
-                                                "modified": "2018-04-23T22:15:00Z",
-                                                "published": "1864-01-01",
-                                                "publisher": "",
-                                                "numberOfPages": 1122,
-                                                "subject": [
-                                                        {
-                                                                "name": "Christianity",
-                                                                "code": ""
-                                                        },
-                                                        {
-                                                                "name": "Religion",
-                                                                "code": ""
-                                                        }
-                                                ],
-                                                "description": ""
-                                        },
-                                        "links": [
-                                                {
-                                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/AaronGarriott_LivingFaithfullyWithAnxietyFA.pdf",
-                                                        "type": "application/epub+zip"
-                                                }
-                                        ],
-                                        "images": [
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/AaronGarriott_LivingFaithfullyWithAnxietyFA.png",
-                                                        "type": "image/jpeg",
-                                                        "height": 110,
-                                                        "width": 146
-                                                },
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/fa/AaronGarriott_LivingFaithfullyWithAnxietyFA.png",
-                                                        "type": "image/jpeg",
-                                                        "height": 346,
-                                                        "width": 260
-                                                }
-                                        ]
                                 }
+
                         ]
                 },
 
